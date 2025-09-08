@@ -66,3 +66,12 @@
 .ticket-card .details span {
  font-size: 18px;
 }
+
+
+.dashed-line {
+  border-left: 2px dashed gray; 
+  border-right: 0;
+  border-top: 0;
+  border-bottom: 0;
+  height: 800px; 
+}
